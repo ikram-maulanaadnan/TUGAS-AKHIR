@@ -1,0 +1,239 @@
+[00:00:01.581] Server  LOG     ✓ Ready in 1108ms
+[00:00:16.964] Server  LOG     ○ Compiling / ...
+[00:00:39.027] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:42.008] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:00:42.105] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:00:42.421] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:42.421] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:42.421] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:42.421] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:42.421] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:42.421] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:42.422] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:42.422] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:43.046] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:00:43.237] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:00:44.392] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:44.392] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:44.392] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:44.392] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:46.952] Browser LOG     MQTT Connected
+[00:00:47.202] Browser LOG     Subscribed to esp/sensors/readings
+[00:00:47.688] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask
+[00:00:47.951] Browser LOG     Subscribed to esp/system/logs
+[00:00:47.951] Browser LOG     Subscribed to esp/system/status
+[00:00:47.951] Browser LOG     Subscribed to esp/system/settings
+[00:00:47.951] Browser LOG     Subscribed to esp/system/commands
+[00:01:13.564] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:01:44.019] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:02:13.424] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:02:43.414] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:03:14.371] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:04:44.477] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:04:44.581] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:11:58.786] Browser LOG     MQTT Offline
+[00:11:58.786] Browser LOG     MQTT Disconnected
+[00:11:58.887] Browser LOG     MQTT Reconnecting... Attempt 1
+[00:11:59.080] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:12:00.639] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:00.856] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:00.860] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:01.078] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:12:01.226] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:12:01.229] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:01.229] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:01.229] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:01.229] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:01.364] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:12:05.140] Browser LOG     MQTT Connected
+[00:12:05.390] Browser LOG     Subscribed to esp/sensors/readings
+[00:12:05.390] Browser LOG     Subscribed to esp/system/logs
+[00:12:05.390] Browser LOG     Subscribed to esp/system/status
+[00:12:05.390] Browser LOG     Subscribed to esp/system/settings
+[00:12:05.390] Browser LOG     Subscribed to esp/system/commands
+[00:12:10.316] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask
+[00:12:46.638] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:13:18.711] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:13:39.360] Server  LOG     ✓ Compiled in 3.9s
+[00:14:13.560] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:14:13.563] Browser ERROR   MQTT Error: {}
+[00:14:13.563] Browser LOG     MQTT Offline
+[00:14:13.563] Browser LOG     MQTT Disconnected
+[00:14:18.458] Browser LOG     MQTT Reconnecting... Attempt 1
+[00:14:26.916] Browser LOG     MQTT Connected
+[00:14:26.916] Browser LOG     Subscribed to esp/sensors/readings
+[00:14:26.916] Browser LOG     Subscribed to esp/system/logs
+[00:14:26.916] Browser LOG     Subscribed to esp/system/status
+[00:14:26.916] Browser LOG     Subscribed to esp/system/settings
+[00:14:26.916] Browser LOG     Subscribed to esp/system/commands
+[00:14:32.488] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:15:03.756] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:15:43.858] Server  LOG     ✓ Compiled in 5.6s
+[00:16:03.670] Server  LOG     ✓ Compiled in 4s
+[00:16:05.718] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:16:05.722] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:05.722] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:05.722] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:05.722] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:16.973] Browser LOG     MQTT Connected
+[00:16:17.212] Browser LOG     Subscribed to esp/sensors/readings
+[00:16:17.212] Browser LOG     Subscribed to esp/system/logs
+[00:16:17.212] Browser LOG     Subscribed to esp/system/status
+[00:16:17.212] Browser LOG     Subscribed to esp/system/settings
+[00:16:19.404] Browser LOG     Subscribed to esp/system/commands
+[00:16:54.096] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:17:05.274] Server  LOG     ✓ Compiled in 4s
+[00:17:33.219] Server  LOG     ✓ Compiled in 4.9s
+[00:17:59.075] Server  LOG     ✓ Compiled in 5.7s
+[00:20:41.755] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:20:48.439] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:48.963] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:48.963] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:48.963] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:48.963] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:48.963] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:48.969] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:48.969] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:48.969] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:49.601] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:20:50.391] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:20:50.417] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:50.417] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:50.417] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:50.417] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:50.765] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:20:51.206] Server  ERROR   Error fetching AI recommendations: error: password authentication failed for user "admin"
+[00:20:53.619] Browser LOG     MQTT Connected
+[00:20:53.808] Browser LOG     Subscribed to esp/sensors/readings
+[00:20:53.808] Browser LOG     Subscribed to esp/system/logs
+[00:20:53.808] Browser LOG     Subscribed to esp/system/status
+[00:20:53.808] Browser LOG     Subscribed to esp/system/settings
+[00:20:53.808] Browser LOG     Subscribed to esp/system/commands
+[00:20:57.804] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask

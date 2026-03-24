@@ -51,7 +51,8 @@ export function useMQTT(config: MQTTConfig, handlers: MessageHandlers) {
   const connect = useCallback(async () => {
     try {
       // Dynamic import to avoid SSR issues
-      const mqtt = await import("mqtt");
+      const mqttModule = await import("mqtt");
+      const mqtt = mqttModule.default || mqttModule;
 
       const options: any = {
         clientId: config.clientId,

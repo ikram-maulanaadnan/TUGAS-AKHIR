@@ -27,6 +27,7 @@ export type SystemSettings = {
   manualPumpState: 'on' | 'off';
   moistureThreshold: number;
   temperatureThreshold: number;
+  plantDescription: string;
 };
 
 export type Alert = {

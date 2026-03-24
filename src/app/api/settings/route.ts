@@ -7,6 +7,7 @@ export async function GET() {
       manualPumpState: 'off' as const,
       moistureThreshold: 50,
       temperatureThreshold: 30,
+      plantDescription: '',
     };
     
     return NextResponse.json(settings);
@@ -24,6 +25,7 @@ export async function POST(request: Request) {
       manualPumpState: data.manualPumpState || 'off',
       moistureThreshold: data.moistureThreshold || 50,
       temperatureThreshold: data.temperatureThreshold || 30,
+      plantDescription: data.plantDescription || '',
     };
     
     return NextResponse.json(updatedSettings);
